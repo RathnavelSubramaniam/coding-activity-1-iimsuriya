@@ -1,1 +1,1 @@
-coding actvity
+creating simple server js file
